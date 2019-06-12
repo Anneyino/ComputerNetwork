@@ -1,0 +1,56 @@
+#div1 {
+	display: block;
+	background:#eeeeee;
+    width: 70%;
+	z-index: 1;
+	margin: 40% auto;
+	overflow: auto;
+}
+ 
+#div2 {
+	background:#eeeeee;
+	margin: 10% auto;
+}
+
+.tag{
+	margin-left: 10%;
+	display: inline-block;
+}
+ 
+
+
+#chapters {
+	width: 50%;
+    margin-left: auto;
+    display: inline-block;
+}
+
+#confirm {
+    background-color: #4CAF50; 
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    color: white;
+    padding: 15px 32px;
+    margin-left: 30%;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+ 
+#close {
+	padding: 5px;
+	background: #d4d4d4;
+}
+ 
+h2 {
+	left: auto;
+	margin: 10% auto;
+	color: rgb(0, 183, 207);
+	text-align: center;
+}
+ 
+h3 {
+	margin: 0 0px;
+	padding-top: 15px;
+}
